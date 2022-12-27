@@ -35,6 +35,6 @@
 - events
 - js functional programming paradigm
 
-**Thoughts** Modularization was interesting. I just getting used to node js, i think i started to enjoyed it
+**Thoughts:** Modularization was interesting. I just getting used to node js and I think I started to enjoyed it
 
 **Link(s) to work**
