@@ -38,3 +38,14 @@
 **Thoughts:** Modularization was interesting. I just getting used to node js and I think I started to enjoyed it
 
 **Link(s) to work**
+
+### Day 1: December 26, 2022
+
+**Today's Progress**
+I learnt about:
+- Higher Order Fuction
+- Reusable Function
+
+**Thoughts:** Not much progress:/ I'm having a hard time to focus today (too much distraction), I hope tommorow I'll be better..
+
+**Link(s) to work**
