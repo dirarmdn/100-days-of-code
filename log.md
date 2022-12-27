@@ -28,8 +28,13 @@
 
 ### Day 0: December 26, 2022
 
-**Today's Progress**:
+**Today's Progress**: 
+- global and process object
+- modularization
+- npm basics
+- events
+- js functional programming paradigm
 
-**Thoughts**
+**Thoughts** Modularization was interesting. I just getting used to node js, i think i started to enjoyed it
 
 **Link(s) to work**
