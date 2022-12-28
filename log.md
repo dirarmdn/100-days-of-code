@@ -37,15 +37,34 @@
 
 **Thoughts:** Modularization was interesting. I just getting used to node js and I think I started to enjoyed it
 
-**Link(s) to work**
+**Link(s) to work / My source of study**
+1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
 
-### Day 1: December 26, 2022
+### Day 1: December 27, 2022
 
 **Today's Progress**
 I learnt about:
 - Higher Order Fuction
 - Reusable Function
 
-**Thoughts:** Not much progress:/ I'm having a hard time to focus today (too much distraction), I hope tommorow I'll be better..
+**Thoughts:** Not much progress:/ I'm having a hard time to focus today (too much distraction), I hope tomorrow I'll be better..
 
-**Link(s) to work**
+**Link(s) to work / My source of study**
+1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
+2. https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function#assigning_a_function_to_a_variable
+
+### Day 2: December 28, 2022
+
+**Today's Progress**
+I learnt about:
+- ES6 Module
+- Try, Catch, and Throwing Error
+- Concurrency Programming
+- Synchronous & Asynchronous
+
+**Thoughts:** I love learning about concurrency and asynchronous (though it giving me headache), it was interesting. Might dig it deeper later.. also my course deadline is getting close T_T I have no choice but to rush out..
+
+**Link(s) to work / My source of study**
+1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
+2. https://www.youtube.com/watch?v=wVtdv5BHhno&t=727s
+3. https://javascript.info/tutorial/map
