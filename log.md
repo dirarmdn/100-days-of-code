@@ -68,3 +68,16 @@ I learnt about:
 1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
 2. https://www.youtube.com/watch?v=wVtdv5BHhno&t=727s
 3. https://javascript.info/tutorial/map
+
+### Day 3: December 29, 2022
+
+**Today's Progress**
+I learnt about:
+- filesystem in JS
+- Write & Readable Stream
+
+**Thoughts:** Not learn much, because I'm tired. Tomorrow I want to understand stream even more and try bulma css (for refreshing)
+
+**Link(s) to work / My source of study**
+1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
+2. https://www.geeksforgeeks.org/node-js-path-resolve-method/
