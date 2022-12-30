@@ -81,3 +81,15 @@ I learnt about:
 **Link(s) to work / My source of study**
 1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
 2. https://www.geeksforgeeks.org/node-js-path-resolve-method/
+
+### Day 4: December 30, 2022
+
+**Today's Progress:** I'm trying to create a *simple* web server using nodejs
+
+**Thoughts:** This is the part I've been waiting for in this course! Honestly, still have no idea how to implement it with the front-end, but let's see. Not yet trying bulma, I want to sleep lol. Maybe tomorrow if I have more time.
+
+**Link(s) to work / My source of study**
+1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
+2. https://nodejs.org/api/documentation.html
+3. https://www.freecodecamp.org/news/json-stringify-example-how-to-parse-a-json-object-with-javascript/
+4. https://github.com/dirarmdn/nodejs_web_server
