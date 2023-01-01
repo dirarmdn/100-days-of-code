@@ -101,6 +101,7 @@ I learnt about:
 **Thoughts:** I didn't code anything yesterday (is that ok? or i failed this challenge(?)) but yeah fck it, I will just continue^_^. This project is very very simple but enough for me to understand the basics. Also, forget abt bulma I don't think I have enough time for that..(I want to do other things too y'know)
 
 **Link(s) to work / My source of study**
-1. https://github.com/dirarmdn/nodejs_web_server
-2. https://github.com/dirarmdn/hapi-web-server
-3. https://hapi.dev/tutorials/?lang=en_US
+1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
+2. https://github.com/dirarmdn/nodejs_web_server
+3. https://github.com/dirarmdn/hapi-web-server
+4. https://hapi.dev/tutorials/?lang=en_US
