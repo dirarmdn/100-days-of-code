@@ -93,3 +93,14 @@ I learnt about:
 2. https://nodejs.org/api/documentation.html
 3. https://www.freecodecamp.org/news/json-stringify-example-how-to-parse-a-json-object-with-javascript/
 4. https://github.com/dirarmdn/nodejs_web_server
+
+### Day 5: January 01, 2023 (Happy new year)
+
+**Today's Progress:** finishing nodejs web server. I also try the framework, hapi.
+
+**Thoughts:** I didn't code anything yesterday (is that ok? or i failed this challenge(?)) but yeah fck it, I will just continue^_^. This project is very very simple but enough for me to understand the basics. Also, forget abt bulma I don't think I have enough time for that..(I want to do other things too y'know)
+
+**Link(s) to work / My source of study**
+1. https://github.com/dirarmdn/nodejs_web_server
+2. https://github.com/dirarmdn/hapi-web-server
+3. https://hapi.dev/tutorials/?lang=en_US
