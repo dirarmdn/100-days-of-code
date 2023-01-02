@@ -62,7 +62,7 @@ I learnt about:
 - Concurrency Programming
 - Synchronous & Asynchronous
 
-**Thoughts:** I love learning about concurrency and asynchronous (though it giving me headache), it was interesting. Might dig it deeper later.. also my course deadline is getting close T_T I have no choice but to rush out..
+**Thoughts:** I love learning about concurrency and asynchronous (though it giving me headache), it was interesting. Might dig it deeper later..
 
 **Link(s) to work / My source of study**
 1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
@@ -86,7 +86,7 @@ I learnt about:
 
 **Today's Progress:** I'm trying to create a *simple* web server using nodejs
 
-**Thoughts:** This is the part I've been waiting for in this course! Honestly, still have no idea how to implement it with the front-end, but let's see. Not yet trying bulma, I want to sleep lol. Maybe tomorrow if I have more time.
+**Thoughts:** This is the part I've been waiting for! Honestly, still have no idea how to implement it with the front-end, but let's see. Not yet trying bulma, I want to sleep lol. Maybe tomorrow if I have more time.
 
 **Link(s) to work / My source of study**
 1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
@@ -98,10 +98,21 @@ I learnt about:
 
 **Today's Progress:** finishing nodejs web server. I also try the framework, hapi.
 
-**Thoughts:** I didn't code anything yesterday (is that ok? or i failed this challenge(?)) but yeah fck it, I will just continue^_^. This project is very very simple but enough for me to understand the basics. Also, forget abt bulma I don't think I have enough time for that..(I want to do other things too y'know)
+**Thoughts:** I didn't code anything yesterday (is that ok? or i failed this(?)) but yeah fck it, I will just continue^_^. This project is very very simple but enough for me to understand the basics. Also, forget abt bulma I don't think I have enough time for that..(I want to do other things too y'know)
 
 **Link(s) to work / My source of study**
 1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
 2. https://github.com/dirarmdn/nodejs_web_server
 3. https://github.com/dirarmdn/hapi-web-server
 4. https://hapi.dev/tutorials/?lang=en_US
+
+### Day 6: January 01, 2023 (Happy new year)
+
+**Today's Progress:** fixing some things, start build another web server with hapi
+
+**Thoughts:** Didn't code much today, today is kinda.. chaos. But I just figured out how to centering a card vertical and horizontally in tailwind lol
+
+**Link(s) to work / My source of study**
+1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
+2. https://github.com/dirarmdn/hapi-web-server
+3. https://hapi.dev/tutorials/?lang=en_US
