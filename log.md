@@ -106,7 +106,7 @@ I learnt about:
 3. https://github.com/dirarmdn/hapi-web-server
 4. https://hapi.dev/tutorials/?lang=en_US
 
-### Day 6: January 01, 2023 (Happy new year)
+### Day 6: January 02, 2023
 
 **Today's Progress:** fixing some things, start build another web server with hapi
 
