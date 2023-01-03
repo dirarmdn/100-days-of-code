@@ -119,7 +119,7 @@ I learnt about:
 
 ### Day 7: January 03, 2023
 
-**Today's Progress:** continue working on new web server, i just finished post req
+**Today's Progress:** continue working on new web server, i just finished adding notes function
 
 **Thoughts:** I'm still struggling on using ES syntax, also CORS.. kinda stuck, I'll fix it tomorrow
 
