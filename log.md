@@ -116,3 +116,13 @@ I learnt about:
 1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
 2. https://github.com/dirarmdn/hapi-web-server
 3. https://hapi.dev/tutorials/?lang=en_US
+
+### Day 7: January 03, 2023
+
+**Today's Progress:** continue working on new web server, i just finished post req
+
+**Thoughts:** I'm still struggling on using ES syntax, also CORS.. kinda stuck, I'll fix it tomorrow
+
+**Link(s) to work / My source of study**
+1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
+2. https://github.com/dirarmdn/notes-app-backend
