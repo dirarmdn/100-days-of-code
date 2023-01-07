@@ -113,7 +113,7 @@ I learnt about:
 **Thoughts:** Didn't code much today, today is kinda.. chaos. But I just figured out how to centering a card vertical and horizontally in tailwind lol
 
 **Link(s) to work / My source of study**
-1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
+1. [https://www.dicoding.com/academies/256 [JS Basic in Indonesian]](https://www.dicoding.com/academies/261 [BE Basic in Indonesian])
 2. https://github.com/dirarmdn/hapi-web-server
 3. https://hapi.dev/tutorials/?lang=en_US
 
@@ -124,5 +124,40 @@ I learnt about:
 **Thoughts:** I'm still struggling on using ES syntax, also CORS.. kinda stuck, I'll fix it tomorrow
 
 **Link(s) to work / My source of study**
-1. https://www.dicoding.com/academies/256 [JS Basic in Indonesian]
+1. https://www.dicoding.com/academies/261 [BE Basic in Indonesian]
 2. https://github.com/dirarmdn/notes-app-backend
+
+### Day 8: January 04, 2023
+
+**Today's Progress:** continue build web server
+
+**Thoughts:** I'm trying to use ES syntax but end up using common js, bcs tired of all the errors i get lol
+
+**Link(s) to work / My source of study**
+1. https://www.dicoding.com/academies/261 [BE Basic in Indonesian]
+
+### Day 9: January 05, 2023
+
+**Today's Progress:** finished web server
+
+**Thoughts:** I wanna add query parameter, but still don't understand how its work?? idk how to implement it on hapi v17 with the handler function i had..
+
+**Link(s) to work / My source of study**
+1. https://www.dicoding.com/academies/261 [BE Basic in Indonesian]
+
+### Day 10: January 06, 2023
+
+**Today's Progress:** just start js basic on freecodecamp
+
+**Thoughts:** this helps me practice. I wanna create another api, but my teacher just told me to learn flutter hh
+
+**Link(s) to work / My source of study**
+1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
+### Day 11: January 07, 2023
+
+**Today's Progress:** none
+
+**Thoughts:** Didn't code anything, sorry bout that.. I upgraded my ram for flutter courses (Yes, I know I should've have to started out with dart first, but idk if i have enough times..) my laptop not here;_;
+
+**Link(s) to work / My source of study**
