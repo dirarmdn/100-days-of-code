@@ -161,3 +161,76 @@ I learnt about:
 **Thoughts:** Didn't code anything, sorry bout that.. I upgraded my ram for flutter courses (Yes, I know I should've have to started out with dart first, but idk if i have enough times..) my laptop not here;_;
 
 **Link(s) to work / My source of study**
+
+### Day 12: January 08, 2023
+
+**Today's Progress:** just tried leetcode
+
+**Thoughts:** When I do my internship last year, my mentor gave me a test. And just realized that the test is from there. Previously, I'm using java, but this time I try using javascript.
+
+**Link(s) to work / My source of study**
+https://leetcode.com/
+
+### Day 13: January 09, 2023
+
+**Today's Progress:** Practicing on freecodecamp
+
+**Thoughts:** Didn't code much, since I didn't have any task from group project or courses (pls forget abt flutter) 
+
+**Link(s) to work / My source of study**
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
+### Day 14: January 10, 2023
+
+**Today's Progress:** I start learning flutter
+
+**Thoughts:** pray for my laptop.. i guess
+
+**Link(s) to work / My source of study**
+gdrive folder from my teacher
+
+### Day 15: January 11, 2023
+
+**Today's Progress:** Change layout table view on my group projects (sims)
+
+**Thoughts:** Maybe because I've been codes in javascript lately, so I'm a bit slow;_;
+
+**Link(s) to work / My source of study**
+https://github.com/hanz-fr/sims
+
+### Day 16: January 12, 2023
+
+**Today's Progress:** Finish change all the table view layout (except one page)
+
+**Thoughts:** Love the new design-! I like previous design but the new design is so clean which is good and more readable (we added new fonts) i guess.
+
+**Link(s) to work / My source of study**
+https://github.com/hanz-fr/sims
+
+### Day 17: January 13, 2023
+
+**Today's Progress:** none
+
+**Thoughts:** Didn't code anything, I'm dying lol. 
+
+**Link(s) to work / My source of study**
+
+### Day 18: January 14, 2023
+
+**Today's Progress:** continue learning flutter
+
+**Thoughts:** This kinda frustate mee T_T because I want to started it with learning dart first, but I don't think I have time for that..
+
+**Link(s) to work / My source of study**
+gdrive folder from my teacher
+
+### Day 19: January 15, 2023
+
+**Today's Progress:** continue learning flutter
+
+**Thoughts:** Kinda figure it out now! I wanna explore more styling and widgets
+
+**Link(s) to work / My source of study**
+- https://www.youtube.com/playlist?list=PLjxrf2q8roU3wk7CDw4RfV3mEwOJbjx1k
+- https://www.udemy.com/course/learn-flutter-beginners-course
+- https://docs.flutter.dev/
